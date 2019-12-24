@@ -1,0 +1,3 @@
+git merge --strategy-option theirs master
+
+git merge --strategy-option 
